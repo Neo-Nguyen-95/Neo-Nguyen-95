@@ -33,8 +33,8 @@ I build scalable data systems for science education, integrating educational mea
 - Prompt4Edu - Help teachers make good prompt.
 - Auto essay scoring
 - Personal finance app - Transform natural language text into structured data.
-- Multi-agent workflow
-- Image Classification with CNN
+- Multi-agent workflow - Show the helpfulness of multiple agents.
+- Image Classification with CNN - Practice classifying image with CNN
 - **[Math Problem Generator App](https://mathgen.streamlit.app/), [Github](https://github.com/Neo-Nguyen-95/DA12_reinvent_math_prob), [Article](https://www.linkedin.com/pulse/da12-generate-infite-similar-problems-viet-dung-nguyen-ydruc/?trackingId=DsafAoBUTrK6GPSPHMahZw%3D%3D)** - Help math teachers generate various problem from 1 original concept.
 - **[Scrapy Data for NLP](https://github.com/Neo-Nguyen-95/DA16_scrapy_web_scraping), [Article](https://www.linkedin.com/pulse/da16-part-ii-basic-nlp-analysis-viet-dung-nguyen-bn3qc/?trackingId=DsafAoBUTrK6GPSPHMahZw%3D%3D)** - Scrape thousands of articles for data and analysis with NLP techniques.
 - **[Naive Bayes Classification](https://github.com/Neo-Nguyen-95/DA17_naive_bayes_classification), [Article 1](https://www.linkedin.com/pulse/da172-naive-bayes-classifier-from-scratch-viet-dung-nguyen-zpxbc/?trackingId=DsafAoBUTrK6GPSPHMahZw%3D%3D), [Article 2](https://www.linkedin.com/pulse/da172-naive-bayes-classifier-from-scratch-viet-dung-nguyen-zpxbc/?trackingId=DsafAoBUTrK6GPSPHMahZw%3D%3D)** - Explain & demo concept of NBC.
